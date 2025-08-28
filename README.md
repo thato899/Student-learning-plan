@@ -1,34 +1,9 @@
 Welcome to my learning journey at WeThinkCode_!
 This repository documents my progress as I prepare for the academic year, explore foundational coding concepts, and build the habits of a self-driven software developer.
 
-📌 Purpose:
-This repo serves as:
+from problem set zero from the cs50 course, everything looked simpled and easy to do because the problems looked simple and straight forward, then came problem set 1, where we were dealing with statements and conditions, it was relatively easier to do, for as long as i kept the syntax to be correct.
 
-A portfolio of all my pre-programme learning activities.
+problem set 2 included loops and a litle robust challenges, i started to spend time on each problem , so it was challenging.
 
-A reflective journal using the README.md to track weekly progress.
+problem set 3, here i was on my forth week studying the cs50 course, it was a challenge for me. problem set 4, i had to download "modules" this are libraries with pre-written coded for emoji and other text graphicsmy computer gave me problems doing this!
 
-A collaboration space to share my growth with mentors and performance managers.
-
-📅 Biweekly Check-ins:
-I’ll be updating this repository regularly to stay on track for my check-ins with my assigned Performance Manager.
-
-🛠️ Topics Covered:
-Introduction to Git and GitHub
-
-Terminal and Command Line Basics
-
-Programming Fundamentals (Python, JavaScript, etc.)
-
-Problem Solving and Algorithmic Thinking
-
-🧠 Reflections & Notes:
-Each section of this repo will include:
-
-Key concepts learned
-
-Personal challenges
-
-Confidence levels
-
-Weekly progress logs
